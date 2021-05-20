@@ -1,0 +1,8 @@
+Steps for creating a database:
+1- Analysing the requirements.
+2- Creating a problem statement.
+3- Defining Entities, relationships among entities and constraints.
+4- Analysing cardinality and participation constraints.
+5- Creating an conceptual data model(ER).
+6- Coverting it to a relational data model/Schema.
+7- Converting it to the actual table.
