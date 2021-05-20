@@ -1,0 +1,20 @@
+1. Hospital		-	hname , hid* , hadd , O2availability
+
+2. Physician		-	hid* , phys_id* , phys_name , phys_position , unique_no	
+
+3. Patient		-	unique_no* , p_name , p_id , p_add , p_pno
+
+4. Nurse 		-	employeeid* , e_name , position , unique_no
+
+5. Beds			-	bedno* , type
+
+6. Block		-	bfloor* , bcode*
+
+7. Room			-	room_no* , room_type , (UNAVAILABLE)
+
+8. *Prescription	-	phys_id* , p_name* , p_code* , date*
+
+9. *Bill		-	date , consultation_fee , medical_fee
+
+========================================================================================
+
