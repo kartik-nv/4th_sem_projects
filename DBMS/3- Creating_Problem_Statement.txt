@@ -1,0 +1,46 @@
+A HOSPITAL contains limited number of DOCTORS, NURSES and different facilities for its PATIENTS.
+A HOSPITAL has limited number of beds, oxygen for PATIENTS.
+A HOSPITAL also has limited rooms located on limited number of floors.
+
+======================================================================================================================================
+
+A DOCTOR always works for one HOSPITAL.(?)
+A DOCTOR is always looking after one or more PATIENTS.
+A DOCTOR guides the nurse of PATIENT for medications.
+A PATIENT is prescribed medications only by the DOCTOR who is looking after him. Any random doctor cannot prescibe medications
+  to a patient.
+
+======================================================================================================================================
+
+A PATIENT is always admitted in only one hospital at any moment of time.
+A PATIENT is always looked after by only one DOCTOR and a NURSE.
+A PATIENT is always alloted a single BED in a ROOM of a BLOCK on a FLOOR at any moment of time.
+A PATIENT always holds a prescription and the total bill of HOSPITAL charges.
+
+======================================================================================================================================
+
+A NURSE serves many PATIENTS but in only one HOSPITAL at any point of time.
+--
+A NURSE is instructed by a DOCTOR about medications of PATIENT(s).
+A NURSE serves maximum of only one ROOM of a BLOCK on a FLOOR at any given time.
+
+======================================================================================================================================
+
+A limited number of BEDS are available in a HOSPITAL.
+A BED is always used by one PATIENT at any point of time.
+
+======================================================================================================================================
+
+A ROOM always contains limited number of PATIENTS and BEDS..
+
+======================================================================================================================================
+
+A BLOCK contains limited ROOMS.
+
+======================================================================================================================================
+
+A FLOOR contains limited BLOCKS.
+
+======================================================================================================================================
+======================================================================================================================================
+

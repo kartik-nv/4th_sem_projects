@@ -1,0 +1,46 @@
+Introduction : 
+
+We all know the tough conditions prevailing around us, locking us into our homes and giving us a tough time. 
+Many of us have unfortunately lost our nearest and dearest ones due to lack of various facilities in hospitals. 
+Most of the things are highly unorganised, which is not a friendly scenario when it comes to seeking help. 
+When anyone of us are suffering with this dangerous disease, we/guardians often have to get out of our homes and 
+literally search for hospitals roaming and querying each hospitals on the way increasing the chances of getting infected 
+or infecting others. We thought of helping the needy with the same issue so that they get details of hospitals on the go 
+without needing to step out. 
+Having a hospital management system/bed availability system has become a need of the hour. 
+
+
+We have come up with an idea of creating a software which allows needy to :
+
+1- Check a list of hospitals with various kinds of beds available.
+2- Check the availability of oxygen in hospitals.
+3- The software contains details of a list of all hospitals across the state.
+4- Any needy patient or one who is suffering can easily track down a hospital with the necessary requirement on a single tap. 
+
+=======================================================================================================================================================================
+
+Advantages : 
+
+1- The software will be user friendly having friendly interfaces thereby needing no information/training of his you use the system/software.
+2- Any patient can get immediate details of the hospital.
+3- Since a software helps the patients for getting information about various needs, the user doesn't need to step out of the door to check the same, thereby 
+   decreasing the possibilities of either getting infected or infecting others. 
+4- Realtime database keeps track of the beds being occupied and vacant almost immediately after the patient is admitted/discharged thereby giving a real time 
+   information.
+5- The software is divided into 3 parts.
+a) One is handled by the main admin(goverment body) to handle details of total beds allocated to a particular hospital, oxygen allotment etc.
+b) The admin of hospital to manage the real-time data.
+c) The user who uses the software.
+
+=======================================================================================================================================================================
+
+Why do we need a software for this purpose?
+
+1- The present situation has a created great chaios not only among people but also between hospitals and governments.
+2- This has led to unorganized situations where we, people, don't have a platform for getting help with any information.
+3- In such situations, a virtual(software) mean(if available) makes (atleast) somethings orgnaized and a good awareness can be spread.
+4- This in turn reduces the chaos around us.
+5- More points already discussed in Advantages section.
+
+======================================================================================================================================================================= 
+
